@@ -1537,6 +1537,7 @@ form,
 div,
 p {
   display: block;
+  position: relative;
 }
 p {
   margin: 0;
